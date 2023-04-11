@@ -52,6 +52,7 @@ namespace MinhaApp
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseMiddleware<MeuMiddleware>();
 
             app.UseMvc(routes =>
             {

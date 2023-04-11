@@ -32,3 +32,4 @@ C:\Users\eduar\Documents\desenvoledor.io-IniciandoASP.NETCore\MinhaApp\MinhaApp\
 C:\Users\eduar\Documents\desenvoledor.io-IniciandoASP.NETCore\MinhaApp\MinhaApp\obj\Debug\netcoreapp2.2\MinhaApp.pdb
 C:\Users\eduar\Documents\desenvoledor.io-IniciandoASP.NETCore\MinhaApp\MinhaApp\obj\Debug\netcoreapp2.2\MinhaApp.genruntimeconfig.cache
 C:\Users\eduar\Documents\desenvoledor.io-IniciandoASP.NETCore\MinhaApp\MinhaApp\obj\Debug\netcoreapp2.2\MinhaApp.csproj.CopyComplete
+C:\Users\eduar\Documents\desenvoledor.io-IniciandoASP.NETCore\MinhaApp\MinhaApp\bin\Debug\netcoreapp2.2\appsettings.Production.json
