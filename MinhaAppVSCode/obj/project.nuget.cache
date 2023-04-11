@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3jBZ4eePJL6pz34tw0apal9Asv+92thEWn42xtAaWfJC19hXGfHLLvNuiSjANkFnbEmvNa1C3ZsT17wL/MCNBg==",
+  "dgSpecHash": "xO1+pten4dckIvOyfHPttMZokLCTPIYfmg1cz7N7w31F0s+8ABE+yWTnseg8XYo5HWehjH61bQTyjxg0f/zZRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\eduar\\Documents\\desenvoledor.io-IniciandoASP.NETCore\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
